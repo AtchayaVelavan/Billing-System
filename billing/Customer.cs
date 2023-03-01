@@ -22,7 +22,7 @@ namespace billing
         {
             InitializeComponent();
         }
-        change chang = new change();
+        Update chang = new Update();
 
 
         private void Customer_Load(object sender, EventArgs e)

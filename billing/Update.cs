@@ -13,18 +13,17 @@ namespace billing
 
 {
    
-    public partial class change : Form
+    public partial class Update : Form
     {
      
        
-        public change()
+        public Update()
         {
             InitializeComponent();
         }
 
         private void button1_Click(object sender, EventArgs e)
         {   
-            string id1 = textBox1.Text;
             SqlConnection con = new SqlConnection();
             con.ConnectionString = "Server=DESKTOP-S9M63N0\\SQLEXPRESS;database=BillingSystem;integrated security=true;";
             try
@@ -42,7 +41,7 @@ namespace billing
             comm.CommandText = "update stationary2 SET rate='" + textBox1.Text +"' where items='"+ comboBox1.SelectedItem.ToString()+"'";
             
             comm.ExecuteNonQuery();
-            MessageBox.Show("change successfully");
+            MessageBox.Show("Update successfully");
 
 
 

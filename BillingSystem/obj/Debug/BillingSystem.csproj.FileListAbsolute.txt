@@ -1,5 +1,0 @@
-C:\Users\COMPAQ\Desktop\Gitproject\BillingSystem\BillingSystem\bin\Debug\BillingSystem.dll
-C:\Users\COMPAQ\Desktop\Gitproject\BillingSystem\BillingSystem\bin\Debug\BillingSystem.pdb
-C:\Users\COMPAQ\Desktop\Gitproject\BillingSystem\BillingSystem\obj\Debug\BillingSystem.csprojResolveAssemblyReference.cache
-C:\Users\COMPAQ\Desktop\Gitproject\BillingSystem\BillingSystem\obj\Debug\BillingSystem.dll
-C:\Users\COMPAQ\Desktop\Gitproject\BillingSystem\BillingSystem\obj\Debug\BillingSystem.pdb

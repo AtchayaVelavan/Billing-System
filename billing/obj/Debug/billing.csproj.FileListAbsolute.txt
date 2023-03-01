@@ -1,7 +1,6 @@
 C:\Users\COMPAQ\Desktop\Gitproject\BillingSystem\billing\bin\Debug\billing.exe.config
 C:\Users\COMPAQ\Desktop\Gitproject\BillingSystem\billing\bin\Debug\billing.exe
 C:\Users\COMPAQ\Desktop\Gitproject\BillingSystem\billing\bin\Debug\billing.pdb
-C:\Users\COMPAQ\Desktop\Gitproject\BillingSystem\billing\obj\Debug\billing.csprojResolveAssemblyReference.cache
 C:\Users\COMPAQ\Desktop\Gitproject\BillingSystem\billing\obj\Debug\billing.Form1.resources
 C:\Users\COMPAQ\Desktop\Gitproject\BillingSystem\billing\obj\Debug\billing.Properties.Resources.resources
 C:\Users\COMPAQ\Desktop\Gitproject\BillingSystem\billing\obj\Debug\billing.csproj.GenerateResource.Cache
@@ -11,4 +10,4 @@ C:\Users\COMPAQ\Desktop\Gitproject\BillingSystem\billing\obj\Debug\billing.Custo
 C:\Users\COMPAQ\Desktop\Gitproject\BillingSystem\billing\obj\Debug\billing.Form2.resources
 C:\Users\COMPAQ\Desktop\Gitproject\BillingSystem\billing\obj\Debug\billing.Product.resources
 C:\Users\COMPAQ\Desktop\Gitproject\BillingSystem\billing\obj\Debug\billing.Registration.resources
-C:\Users\COMPAQ\Desktop\Gitproject\BillingSystem\billing\obj\Debug\billing.change.resources
+C:\Users\COMPAQ\Desktop\Gitproject\BillingSystem\billing\obj\Debug\billing.Update.resources

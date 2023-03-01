@@ -36,12 +36,12 @@ namespace billing
             string passcode = (string)comm.ExecuteScalar();
             if (passcode == textBox2.Text)
             {
-                change c = new change();
+                Update c = new Update();
                 c.ShowDialog();
             }
             else
             {
-                MessageBox.Show("UR not admin pls enter correct passcode");
+                MessageBox.Show("Pls enter corect password");
             }
 
             

@@ -38,8 +38,7 @@ namespace billing
             string id = (string)com.ExecuteScalar();
             if (id == textBox1.Text)
             {
-                MessageBox.Show("Id is Already Register Pls Enter Another id");
-
+                MessageBox.Show("Already Register Pls Enter Another id");
                
             }
             else
@@ -52,6 +51,11 @@ namespace billing
                 Customer c = new Customer();
                 c.ShowDialog();
             }
+
+        }
+
+        private void Registration_Load(object sender, EventArgs e)
+        {
 
         }
     }

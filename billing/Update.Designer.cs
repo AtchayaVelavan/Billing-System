@@ -1,6 +1,6 @@
 ﻿namespace billing
 {
-    partial class change
+    partial class Update
     {
         /// <summary>
         /// Required designer variable.
@@ -53,7 +53,7 @@
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(87, 32);
             this.button1.TabIndex = 7;
-            this.button1.Text = "Change";
+            this.button1.Text = "Update";
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
